@@ -48,7 +48,7 @@ public class Eletrodomesticos {
 	}
 	
 	public void potencia() {
-		System.out.println("A potencia do " + this.tipo + "é de: " + this.potencia + "W");
+		System.out.println("A potencia da " + this.tipo + " é de: " + this.potencia + "W");
 	}
 	
 	public void desligar() {
